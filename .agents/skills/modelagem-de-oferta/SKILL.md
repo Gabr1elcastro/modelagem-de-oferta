@@ -18,6 +18,18 @@ As transcrições integrais dos 13 Reels são a fonte primária deste método. O
 
 Antes de sugerir uma oferta, obtenha ou declare as lacunas relevantes: mercado/produto disponível, comprador, canal, faixa de preço e objetivo da campanha. Quando o usuário já trouxer uma referência, comece pela decomposição dela; quando não trouxer, peça um exemplo de mercado ou proponha pesquisa de referências públicas.
 
+## Triagem antes de modelar
+
+Não trate toda referência como digna de ser modelada. Antes de gerar variações, dê um veredito explícito e justificado:
+
+- **Modelar agora:** há comprador identificável, dor ou trabalho concreto, entrega compreensível, mecanismo de uso claro e diferenciação possível. Se houver sinal externo de demanda (por exemplo, anúncio ativo, recorrência do problema ou procura visível), registre-o como evidência — não como garantia de resultado.
+- **Investigar antes de modelar:** a proposta parece promissora, mas faltam evidências de demanda, informação sobre canal, clareza da entrega ou sinal de concorrência. Diga exatamente o que precisa ser verificado.
+- **Descartar como referência:** a promessa é genérica, a utilidade não é demonstrável, não existe um comprador/uso claro, ou a única “diferenciação” é aumentar quantidade, desconto ou benefício sem mudar a lógica comercial.
+
+Separe sempre **oferta fraca** de **evidência insuficiente**. Não descarte uma referência apenas por ser nova, incomum, de nicho ou por ainda não haver prova pública de anúncios; nesses casos, classifique como investigação. O objetivo é evitar tanto a modelagem de oferta ruim quanto um viés que rejeite boas oportunidades cedo demais.
+
+Quando descartar, explique o motivo sem suavizar artificialmente e ofereça uma rota: qual elemento precisaria mudar para a ideia voltar a merecer análise. Quando aprovar, também registre o principal risco a validar.
+
 ## Decomponha a referência
 
 Trate a oferta como um sistema, não como um item. Registre:
@@ -57,11 +69,12 @@ Em low-ticket, dê prioridade a entregas prontas para uso que economizem tempo e
 
 Entregue nesta ordem:
 
-1. Diagnóstico da referência ou briefing.
-2. Mapa da lógica de venda: quem, o quê, dor/motivo e mecanismo.
-3. Tabela de hipóteses com eixo usado, nova proposta, por que preserva a lógica e risco a validar.
-4. Recomendação priorizada (máximo de três) com promessa clara, entregáveis, mecanismo, objeção respondida e evidências de demanda/concorrência necessárias.
-5. Direção de anúncio, página e checkout. Para complementos no checkout, recomende apenas itens genuinamente relevantes e apresente-os como recomendação útil, não pressão artificial.
-6. Próximo experimento e o que aprender com ele.
+1. Veredito de triagem: modelar agora, investigar antes de modelar ou descartar como referência — com evidências, lacunas e risco.
+2. Diagnóstico da referência ou briefing.
+3. Mapa da lógica de venda: quem, o quê, dor/motivo e mecanismo.
+4. Tabela de hipóteses com eixo usado, nova proposta, por que preserva a lógica e risco a validar.
+5. Recomendação priorizada (máximo de três) com promessa clara, entregáveis, mecanismo, objeção respondida e evidências de demanda/concorrência necessárias.
+6. Direção de anúncio, página e checkout. Para complementos no checkout, recomende apenas itens genuinamente relevantes e apresente-os como recomendação útil, não pressão artificial.
+7. Próximo experimento e o que aprender com ele.
 
 Para uma visão rápida, leia [references/metodo-extraido.md](references/metodo-extraido.md). Para respostas e decisões, priorize as transcrições integrais roteadas por [references/indice-dos-reels.md](references/indice-dos-reels.md).
